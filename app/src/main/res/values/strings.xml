@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="text_empty">Headline or text were not added!!</string>
+    <string name="saved">Saved!</string>
+</resources>
